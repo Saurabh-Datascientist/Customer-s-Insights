@@ -3,10 +3,10 @@ This repository contains code and resources for a comprehensive analysis of sale
 
 Key Features:
 
-Data Preparation: Concatenation of data from multiple years, handling missing values, and cleaning the dataset.
-Customer Segmentation (RFM Analysis): Implementation of RFM analysis to segment customers based on recency, frequency, and monetary value scores.
-Seasonal Trends: Analysis of monthly sales revenue trends to identify seasonal patterns in purchasing behavior.
-Customer Lifetime Value (CLV): Estimation of CLV to understand the long-term value of customers to the business.
-Geographical Analysis: Visualization of transaction distribution by country to identify geographical trends.
-Product Performance Analysis: Evaluation of product performance based on revenue, quantity sold, and profitability.
-Customer Purchase Behavior Analysis: Analysis of purchase frequency distribution and identification of repeat customers.
+1. Data Preparation: Concatenation of data from multiple years, handling missing values, and cleaning the dataset.
+2. Customer Segmentation (RFM Analysis): Implementation of RFM analysis to segment customers based on recency, frequency, and monetary value scores.
+3. Seasonal Trends: Analysis of monthly sales revenue trends to identify seasonal patterns in purchasing behavior.
+4. Customer Lifetime Value (CLV): Estimation of CLV to understand the long-term value of customers to the business.
+5. Geographical Analysis: Visualization of transaction distribution by country to identify geographical trends.
+6. Product Performance Analysis: Evaluation of product performance based on revenue, quantity sold, and profitability.
+7. Customer Purchase Behavior Analysis: Analysis of purchase frequency distribution and identification of repeat customers.
